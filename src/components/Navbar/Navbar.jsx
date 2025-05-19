@@ -8,7 +8,7 @@ import { FiShoppingBag } from "react-icons/fi";
 
 const Menu = [
   { id: 1, name: "Home", link: "/" },
-  { id: 2, name: "Top Rated", link: "/top-rated" },
+  { id: 2, name: "Mahesh", link: "/top-rated" },
   { id: 3, name: "Kids Wear", link: "/kids-wear" },
   { id: 4, name: "Mens Wear", link: "/mens-wear" },
   { id: 5, name: "Electronics", link: "/electronics" },
